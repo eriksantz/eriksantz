@@ -34,4 +34,4 @@
 ---
 
 ## ✨ Achievements:
-🚀 Focused on becoming a great backend developer
+🚀 Focused on becoming a great backend developer!
