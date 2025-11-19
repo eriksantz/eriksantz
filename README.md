@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Erik!
 
-🎓 I'm 21 years old and currently studying *Analysis and Systems Development*.  
+🎓 I'm 22 years old and currently studying *Analysis and Systems Development*.  
 💻 I'm passionate about programming, learning **Python** and **HTML/CSS** for backend and web.  
 🧠 I'm also focused on self-development and discipline.  
 🕹️ I enjoy playing games, watching Twitch streams, and reading manga.  
@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_instagram)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eriksantz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriksantz/)
 
 ---
