@@ -3,7 +3,6 @@
 🎓 I'm 22 years old and currently studying *Analysis and Systems Development*.  
 💻 I'm passionate about programming, learning **Python** and **HTML/CSS** for backend and web.  
 🧠 I'm also focused on self-development and discipline.  
-🕹️ I enjoy playing games, watching Twitch streams, and reading manga.  
 
 ---
 
